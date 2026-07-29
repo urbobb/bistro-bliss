@@ -57,6 +57,8 @@ const dishSlides = computed(() => {
       :ui="{
         item: 'basis-full',
         container: 'rounded-lg',
+        prev: '-start-10 sm:-start-12',
+        next: '-end-10 sm:-end-12',
       }">
       <div class="slide-content">
         <div class="column">

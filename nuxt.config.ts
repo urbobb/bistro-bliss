@@ -65,7 +65,6 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/google-fonts",
     "@nuxt/ui",
-    "@nuxtjs/i18n",
   ],
 
   css: ["~/assets/css/main.css"],
